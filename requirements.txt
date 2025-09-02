@@ -1,0 +1,4 @@
+torch>=2.0
+tokenizers>=0.13
+datasets>=2.19
+tqdm>=4.64
